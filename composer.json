@@ -13,6 +13,6 @@
             "name": "Faruq"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "beta",
     "require": {}
 }
