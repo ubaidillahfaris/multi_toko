@@ -1,5 +1,6 @@
 {
     "name": "faruq/multitoko",
+    "version": "0.1.0",
     "type": "project",
     "license": "MIT",
     "autoload": {
