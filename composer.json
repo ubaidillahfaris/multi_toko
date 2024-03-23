@@ -1,0 +1,17 @@
+{
+    "name": "faruq/multitoko",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Faruq\\MultiToko\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faruq"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
